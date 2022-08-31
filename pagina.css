@@ -1,0 +1,86 @@
+.body{
+
+margin-left: 7%;
+margin-right: 7%;
+
+}
+
+.navbar-brand{
+    color: red;
+    font-family: fantasy;
+    font-size: xx-large;
+}
+
+.body1{
+    padding: 1%;
+    height: 1%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    color: rgb(255, 255, 255);
+    background-color: black;
+    }
+
+
+    .body2{
+        padding: 2%;
+        height: 2%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+        font-size: xx-large;
+        color: rgb(255, 255, 255);
+        background-color: rgb(65, 50, 100);
+        }
+
+
+        .body3{
+            padding: 2%;
+            height: 2%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+            font-size: xx-large;
+            color: rgb(0, 0, 0);
+            background-color: rgb(152, 253, 58);
+            }
+    
+            .body4{
+                padding: 2%;
+                height: 2%;
+                font-family: monospace;
+                font-size: xx-large;
+                display: grid;
+                grid-template-columns: repeat(3,33.33%);
+                gap: 1rem;
+               
+        
+                }
+
+                .body5{
+                    padding: 2%;
+                    height: 2%;
+                    font-size: xx-large;
+                    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+                    color: rgb(0, 0, 0);
+                    background-color: rgb(247, 92, 92);
+                    }
+
+                    .body6{
+                        padding: 2%;
+                        height: 2%;
+                        font-size: medium;
+                        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+                        color: rgb(255, 255, 255);
+                        background-color: rgb(0, 0, 0);
+                        }
+
+
+
+
+                     .imagenes{
+                        padding: 1%;
+                        height: 1%;
+                        font-size: xx-large;
+                        display: grid;
+                        grid-template-columns: repeat(3,33.33%);
+                        gap: 1rem;
+                       
+                
+                        }
+

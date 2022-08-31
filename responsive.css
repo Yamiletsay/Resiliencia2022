@@ -1,0 +1,9 @@
+@media screen and (max-whith: 200px){
+    .container{
+display: grid;
+grid-template-columns: repeat(3,33.33%);
+gap: 2rem;
+
+
+    }
+}
